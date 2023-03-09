@@ -1,4 +1,5 @@
 class Quarterback:
+    
     def __init__(self):
         self.com = float(input("Enter the number of passes completed : "))
         self.att = float(input("Enter the number of passes attempted : "))
